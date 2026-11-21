@@ -1,5 +1,6 @@
 # 🎁 Birthday Surprise Website
 
+
 An interactive, mobile-first birthday surprise website. The person you love opens it on their phone and taps through a story made just for them, with music, fireworks and gifts.
 
 No coding needed: you change **one settings block** at the top of `index.html`.
